@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Candy-BuSi/hejing20192123041.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Candy-BuSi/hejing20192123041.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+软件建模第一次作业
+作业内容：
+1. 基于Github平台的功能画出用例图
+2. 写出用例图说明，描述该用例图的参与者、元素、关系
+3. 在Github上建立个人数据库，并创建个人博客，写出作业过程
+作业思路：
+Github是一个面向开源及私有软件项目的托管平台，有Git代码托管、基本的Web管理界面、订阅、讨论组、文本渲染、写作图谱、Gisi等功能。本次作业我选择了其中的Pull requests功能来进行用例分析。
+Pull requests是用户修改代码后向对方仓库发送采纳的请求功能，也是GitHub的核心功能，正式因为有了这个功能，才会让众多开发者轻松地加入到开源开发的队伍中来。
+操作步骤：
+1.先 fork 别人的仓库，相当于拷贝一份; (fork拷贝别人的代码)
+2.clone 到本地分支，做bug fix (修复bug)
+3.发起 pull request 给原仓库，让代码发布者看到你修改的 bug
+4.原仓库收到这个bug，如果是正确的话，就会采纳合并到他自己的项目中
+5.至此，整个 pull request 的过程就结束了。
+作业过程：
+1.安装staruml
+2.注册github账号
+3.建立个人数据仓库，并以姓名拼音+学号命名
+4.了解并学习平台repositories项目代码托管功能
+5.选定作业方向（pull requests功能）
+6.使用staruml画出用例图
+7.写出用例图说明
